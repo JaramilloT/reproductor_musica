@@ -21,7 +21,7 @@ export const playList = [
     title: 'Te pintaron pajaritos',
     artist: 'Yandar & Yostin, Andy Rivera',
     img: 'img/Pajaritos.jfif',
-    song: 'mp3/Y2meta.app - PSY - GANGNAM STYLE(강남스타일) M_V (128 kbps).mp3'
+    song: 'mp3/TePintaronPajaritos.mp3'
   },
   {
     title: 'Opacandastar',
