@@ -1,32 +1,32 @@
 export const playList = [
-    {
-      title: 'Song 1',
-      artist: 'Artist 1',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
-    {
-      title: 'Song 2',
-      artist: 'Artist 2',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
-    {
-      title: 'Song 3',
-      artist: 'Artist 3',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
-    {
-      title: 'Song 4',
-      artist: 'Artist 4',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
-    {
-      title: 'Song 5',
-      artist: 'Artist 5',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
-    },
-  ]
+  {
+    title: 'MaiteZaitut',
+    artist: 'Mago De Oz',
+    img: 'img/MagoDeOz.jfif',
+    song: 'mp3/MaiteZaitut.mp3'
+  },
+  {
+    title: 'SiVeoATuMama',
+    artist: 'Bad Bunny',
+    img: 'img/SiVeo.png',
+    song: 'mp3/SIVEOATUMAMÁ.mp3'
+  },
+  {
+    title: 'Candy',
+    artist: 'Plan B',
+    img: 'img/candy.jpg',
+    song: 'mp3/Candy.mp3'
+  },
+  {
+    title: 'Te pintaron pajaritos',
+    artist: 'Yandar & Yostin, Andy Rivera',
+    img: 'img/Pajaritos.jfif',
+    song: 'mp3/Y2meta.app - PSY - GANGNAM STYLE(강남스타일) M_V (128 kbps).mp3'
+  },
+  {
+    title: 'Opacandastar',
+    artist: 'Psy',
+    img: 'img/Opacandastar.webp',
+    song: 'mp3/Y2meta.app - PSY - GANGNAM STYLE(강남스타일) M_V (128 kbps).mp3'
+  },
+]

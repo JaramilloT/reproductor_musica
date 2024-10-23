@@ -6,7 +6,7 @@
 
 body{
     width: 100vw;
-    height: 100vw;
+    height: 34vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,10 +14,10 @@ body{
 }
 
 .container-player{
-    width: 18rem;
-    height: 25rem;
+    width: 19rem;
+    height: 28rem;
     border-radius: 10px;
-    background-color: #1bc3e0;
+    background-color: #f8f65e;
     box-shadow: 4px 4px 5px #012b61;
     display: flex;
     flex-direction: column;
